@@ -53,7 +53,7 @@ hobbies: ["Gaming", Bike Riding, Gym]
 <hr>
 <h2 align="center">🚀  Some Tools I Have Used and Learned</h2>
 <div align="center">
-<img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-256.png" alt="vscode">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode">
 <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html">
 <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css">
 <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="js">
