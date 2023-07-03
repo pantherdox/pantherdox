@@ -1,7 +1,8 @@
 <h1 align="center">
   Hey Everyone!! ✌
 </h1>
-<h2>Let's Connect and have a Chat!💬</h2>
+<h2 align="center">Let's Connect and have a Chat!💬</h2>
+<div align="center">
 <a href="https://www.instagram.com/pantherdox">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png"/>
 </a>
@@ -14,6 +15,7 @@
 <a href="https://www.instagram.com/pantherdox">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-256.png"/>
 </a>
+</div>
 <img src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
