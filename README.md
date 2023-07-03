@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 font-weight="bold" align="center">
   Hey Everyone!! ✌
 </h1>
 <h2 align="center">Let's Connect and have a Chat!💬</h2>
