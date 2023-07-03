@@ -1,8 +1,7 @@
-<p align="center">
+<h1 align="center">
   Hey Everyone!! ✌
-</p>
+</h1>
 <h2>Let's Connect and have a Chat!💬</h2>
-<hr>
 <a href="https://www.instagram.com/pantherdox">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png"/>
 </a>
