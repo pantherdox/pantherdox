@@ -16,7 +16,9 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-256.png"/>
 </a>
 </div>
+<div align="center">
 <img align="center" src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</div>
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
