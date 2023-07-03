@@ -16,7 +16,7 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-256.png"/>
 </a>
 </div>
-<img src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="center" src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
@@ -49,4 +49,14 @@ currently_learning: ["JavaScript and React Native"]
 hobbies: ["Gaming", Bike Riding, Gym]
 ```
 <hr>
-<hr>
+<h2 align="center">🚀  Some Tools I Have Used and Learned</h2>
+<div align="center">
+<img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-256.png" alt="vscode">
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html">
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css">
+<img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-21/40/javascript-512.png" alt="js">
+<img height="50" src="https://cdn0.iconfinder.com/data/icons/dicticons-files-folders/32/file_coding_c-2-256.png" alt="cpp">
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_C_blue-256.png" alt="c">
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" alt="java">
+<img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="sql">
+</div>
