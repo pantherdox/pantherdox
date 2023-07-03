@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  Hey Everyone!! ✌
 </p>
 <h2>Let's Connect and have a Chat!💬</h2>
 <hr>
@@ -18,6 +18,7 @@
 <img src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
+
 ```yaml
 name: Aryaman Tickoo
 located_in: Jammu, Jammu & Kashmir, INDIA
