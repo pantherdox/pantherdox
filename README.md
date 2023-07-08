@@ -62,4 +62,5 @@ hobbies: ["Gaming", Bike Riding, Gym]
 <img height="50" src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_C_blue-256.png" alt="c">
 <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" alt="java">
 <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="sql">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/brand-bootstrap-512.png" alt="sql">
 </div>
