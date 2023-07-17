@@ -5,7 +5,7 @@
 <h2 align="center">Let's Connect and have a Chat!💬</h2>
 <div align="center">
 <a href="https://www.instagram.com/pantherdox">
-  <img height="50" src="https://media0.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47ut1evz3t8cniv80mgineaknkyyuim53oiyhuy9cy&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2247/50/social_media_web_network_logo-05-256.png"/>
 </a>
 <a href="https://www.linkedin.com/in/aryamantickoo/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/>
@@ -18,7 +18,7 @@
 </a>
 </div>
 <div align="center">
-<img align="center" src="https://media3.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47kn9ygslr7k71inodnnti2khacbyi3rg7uoo0uvye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="center" src="https://media0.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47ut1evz3t8cniv80mgineaknkyyuim53oiyhuy9cy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
