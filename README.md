@@ -4,7 +4,7 @@
 </h1>
 </div>
 <div align="center">
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s3dmp6a2U4czAxdnhlODV4ZXZsdHRrdXZmZDk2MHpwbWlzbmZ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.gif">
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzM3I2YmpocG1uaWJydjdkdmoxOXN1NWNzemgwaGtmNnFwbGNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif">
 </div>
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
