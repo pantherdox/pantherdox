@@ -22,15 +22,19 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "App Deelopment",
     "Machine Learning",
     "UI/UX",
     "Game Development",
     "DevOps",
   ]
-technical_background:
+where_i_work(ed):
   [
-    "Intern - Branding Elves, Jammu, INDIA
-    "Intern - IIT Jammu, INDIA
+    "Fulltime - Techible Pvt. Ltd., Jammu, INDIA"
+    "Fulltime - Mogi I/O Pvt. Ltd., Delhi, INDIA",
+    "Fulltime - Cutting Edge Private Limited, Delhi, INDIA",
+    "Intern - Branding Elves, Jammu, INDIA",
+    "Intern - IIT Jammu, INDIA",
     "Intern - Apploys, Delhi , INDIA",
     "Intern - Workfall, Singapore",
   ]
